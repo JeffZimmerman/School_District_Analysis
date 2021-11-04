@@ -1,2 +1,2 @@
 # School_District_Analysis
-using python and anaconda to keep kids away from snakes
+using python and anaconda to analyze school district data
