@@ -22,6 +22,7 @@ The bottom five schools remain the same.
 ![Screen Shot 2022-03-14 at 3 56 15 PM](https://user-images.githubusercontent.com/91562577/158250809-fa637426-70a3-4b0b-a19d-8bcfe4ceee9f.png)
 
 * Scores by school spending remained the same for all of the spending ranges except for $630-644, the range that included Thomas High School. This range saw a 6% drop in passing math, 7% drop in passing reading, and 6% drop in overall passing percentage.
+
 ![Screen Shot 2022-03-14 at 4 22 46 PM](https://user-images.githubusercontent.com/91562577/158254923-3b274988-68ee-468c-a6a1-f2b7d686aec4.png)
 
 * Scores by school size followed the same pattern as scores by school spending--only the medium-sized range that included Thomas High School saw a change. This group, with 1000-2000 students, dropped 6% in each of passing math, passing reading, and overall passing percentage.
