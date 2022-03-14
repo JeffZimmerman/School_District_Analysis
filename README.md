@@ -25,7 +25,7 @@ The bottom five schools remain the same.
 
 ![Screen Shot 2022-03-14 at 4 22 46 PM](https://user-images.githubusercontent.com/91562577/158254923-3b274988-68ee-468c-a6a1-f2b7d686aec4.png)
 
-* Scores by school size followed the same pattern as scores by school spending--only the medium-sized range that included Thomas High School saw a change. This group, with 1000-2000 students, dropped 6% in each of passing math, passing reading, and overall passing percentage.
+* Scores by school size followed the same pattern as scores by school spending--only the medium-sized range that included Thomas High School saw a change. This group, with 1000-2000 students, dropped 6% in each of passing math, passing reading, and overall passing.
 ![Screen Shot 2022-03-14 at 3 58 25 PM](https://user-images.githubusercontent.com/91562577/158251175-6d29c2ad-0a46-4fbc-aba7-b12aa0407d8e.png)
 
 * Scores by school type shows that the Charter schools group, which included Thomas High School, saw a drop in each of math, reading, and overall passing percentage. However, these lower scores did fully narrow the gap in the passing rates of Charter schools compared to the lower rates for District schools.
