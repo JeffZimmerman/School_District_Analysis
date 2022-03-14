@@ -29,3 +29,4 @@ The bottom five schools remain the same.
 ![Screen Shot 2022-03-14 at 3 59 08 PM](https://user-images.githubusercontent.com/91562577/158251289-29cc568a-7b92-4cb6-a103-cba5f9bba838.png)
 
 ## Summary
+Replacing the scores for ninth graders at Thomas High School results in lower passing rates in several metrics, particularly obvious when grouping schools based on spending, size, or school type. Because the entire ninth grade cohort at Thomas High School was omitted in the analysis, it remains unclear what type of academic dishonesty may have occurred, and which individuals may have been involved. At a population level however, separating this group shows a clear pattern in the drops in overall passing percentage, passing math percentage, and passing reading percentage. The ranking of Thomas High School in the district also dropped, as without the inflated scores of the ninth grade class the school was no longer in the top five. 
