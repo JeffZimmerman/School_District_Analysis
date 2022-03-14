@@ -15,12 +15,13 @@ The bottom five schools remain the same.
 ![Screen Shot 2022-03-14 at 3 49 52 PM](https://user-images.githubusercontent.com/91562577/158249805-7c596eb8-4161-4bd9-bda4-f8ab61f4d5ed.png)
 
 * Math scores by grade were kept intact across the district, save for Thomas High School ninth graders.
-![Screen Shot 2022-03-14 at 3 55 42 PM](https://user-images.githubusercontent.com/91562577/158250722-b8bf409a-ffb6-444c-a604-bd84864c46f8.png)
+![Screen Shot 2022-03-14 at 4 23 32 PM](https://user-images.githubusercontent.com/91562577/158255013-181731fa-fbc3-4820-8fe7-e94c70e5263e.png)
+
 * Reading scores by grade were also kept intact across the district, save for Thomas High School ninth graders.
 ![Screen Shot 2022-03-14 at 3 56 15 PM](https://user-images.githubusercontent.com/91562577/158250809-fa637426-70a3-4b0b-a19d-8bcfe4ceee9f.png)
 
 * Scores by school spending remained the same for all of the spending ranges except for $630-644, the range that included Thomas High School. This range saw a 6% drop in passing math percentage, 7% drop in passing reading percentage, and 6% drop in overall passing percentage.
-![Screen Shot 2022-03-14 at 3 57 59 PM](https://user-images.githubusercontent.com/91562577/158251102-bdd711b6-a306-421a-8798-5677e13a450e.png)
+![Screen Shot 2022-03-14 at 4 22 46 PM](https://user-images.githubusercontent.com/91562577/158254923-3b274988-68ee-468c-a6a1-f2b7d686aec4.png)
 
 * Scores by school size followed the same pattern as scores by school spending--only the medium-sized range that included Thomas High School saw a change. This group, with 1000-2000 students, dropped 6% in each of passing math, passing reading, and overall passing percentage.
 ![Screen Shot 2022-03-14 at 3 58 25 PM](https://user-images.githubusercontent.com/91562577/158251175-6d29c2ad-0a46-4fbc-aba7-b12aa0407d8e.png)
